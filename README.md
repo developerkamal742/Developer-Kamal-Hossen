@@ -1,2 +1,3 @@
 # Developer-Kamal-Hossen
-I'm Developer Kamal Hossen. I'm a WordPress expert with multiple years of experience (Since-2020). I can build your dream website as per your needs.
+Hi, I am Developer Kamal Hossen. I am an expert in Full Stack Web Developer. I am a skilled web designer with over 4 years of experience in the industry.
+HTML,CSS,JavaScript,Bootstrap,PHP,MySQL,React,jQuery Etc.
